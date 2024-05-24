@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Andrii Kossman
+- 👀 I’m interested in creating databases
+- 🌱 I’m currently learning Python (Docker, SQLAlchemy...), C#
+- ⚡ Fun fact: im Ukrainian
