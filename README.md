@@ -1,17 +1,50 @@
-<h1 align="center">Hi 👋, I'm Andrii</h1>
-<h3 align="center">A student from Ukraine</h3>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=stkossman.stkossman&left_color=seagreen&right_color=black&left_text=profile%20views"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stkossman&label=Profile%20views&color=0e75b6&style=flat" alt="stkossman" /> </p>
+###
 
-- 🔭 I’m currently working on **university projects in C# and Python**
+<h1 align="center">küss küss 👋</h1>
 
-- 🌱 I’m currently learning **C#, Python, PostgreSQL, Docker**
+###
 
-- 📫 How to reach me **an.stawski@outlook.com**
+<h3 align="left">👩‍💻  About Me</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stkossman&show_icons=true&locale=en&layout=compact" alt="stkossman" /></p>
+<p align="left">I'm Andrii (Andrew) from Ukraine.<br><br>- 🔭 I’m studying in Ostroh Academy<br>- 📚 I'm currently learning C#, Python, Databases<br>- 📫 How to reach me: an.stawski@outlook.com</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stkossman&show_icons=true&locale=en" alt="stkossman" /></p>
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sqlite logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=stkossman&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stkossman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stkossman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
