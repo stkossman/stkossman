@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stkossman&label=Profile%20views&color=0e75b6&style=flat" alt="stkossman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stkossman" alt="stkossman" /></a> </p>
-
 - 🔭 I’m currently working on **university projects in C# and Python**
 
-- 🌱 I’m currently learning **C#, Python,PostgreSQL, Docker**
+- 🌱 I’m currently learning **C#, Python, PostgreSQL, Docker**
 
 - 📫 How to reach me **an.stawski@outlook.com**
 
