@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Andrii (Andrew) from Ukraine.<br><br>- 🔭 I’m studying in Ostroh Academy<br>- 📚 I'm currently learning language Databases (using MySQL and Linux) and C#.<br>- 📫 How to reach me: an.stawski@outlook.com</p>
+<p align="left">I'm Andrii (Andrew) from Ukraine.<br><br>- 🔭 I’m studying in Ostroh Academy<br>- 📚 I'm currently learning language Databases (using MySQL and Linux) and C#.<br>- 📫 How to reach me: an.stawski@outlook.com <br>- 🌟Completed CS50x course on 26th of November!</br></p>
 
 ###
 
