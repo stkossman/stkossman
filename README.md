@@ -32,16 +32,6 @@
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="ps logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visual studio logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo" />
 </div>
 
 ###
