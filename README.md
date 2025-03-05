@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Andrii (Andrew) from Ukraine.<br><br>- 🔭 I’m studying in Ostroh Academy<br>- 📚 I'm currently having a rest.<br>- 📫 How to reach me: an.stawski@outlook.com</p>
+<p align="left">I'm Andrii (Andrew) from Ukraine.<br><br>- 🔭 I’m studying in Ostroh Academy<br>- 📚 I'm currently doing project at university.<br>- 📫 How to reach me: an.stawski@outlook.com</p>
 
 ###
 
