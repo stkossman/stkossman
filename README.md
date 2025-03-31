@@ -30,6 +30,8 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
 </div>
 
 ###
