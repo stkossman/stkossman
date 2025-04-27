@@ -19,7 +19,7 @@ class Developer:
             "Frontend": ["HTML/CSS", "JavaScript", "TailwindCSS", "React (basic)", "Nuxt (basic)"],
             "DevOps": ["Docker", "Git"]
         }
-        self.passion = "im de"
+        self.passion = "im dead inside"
         
     def __str__(self):
         return f"{self.name} | {self.role}"
