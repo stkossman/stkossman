@@ -4,6 +4,12 @@
 
 ###
 
+<h1 align="center">
+  <span style="color: #FFAE00">呪われた</span>
+</h1>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -27,12 +33,6 @@ class Developer:
 me = Developer()
 print(me)
 ```
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=stkossman.stkossman&left_color=seagreen&right_color=black&left_text=profile%20views"  />
-</div>
 
 ###
 
