@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=stkossman.stkossman&left_color=seagreen&right_color=black&left_text=profile%20views"  />
+  <img src="ren.jpg" />
 </div>
 
 ###
@@ -27,6 +27,12 @@ class Developer:
 me = Developer()
 print(me)
 ```
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=stkossman.stkossman&left_color=seagreen&right_color=black&left_text=profile%20views"  />
+</div>
 
 ###
 
