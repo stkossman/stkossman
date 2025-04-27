@@ -4,15 +4,29 @@
 
 ###
 
-<h1 align="center">küss küss 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Andrii (Andrew) from Ukraine.<br><br>- 🔭 I’m studying in Ostroh Academy<br>- 📚 I'm currently doing project at university.<br>- 📫 How to reach me: an.stawski@outlook.com</p>
+```python
+class Developer:
+    def __init__(self):
+        self.name = "kossman"
+        self.role = "Frontend Developer"
+        self.skills = {
+            "Backend": ["Python", "NodeJS", "C#", "C++"],
+            "Database": ["MySQL", "PostgreSQL", "MSSQL"],
+            "Frontend": ["HTML/CSS", "JavaScript", "TailwindCSS", "React (basic)", "Nuxt (basic)"],
+            "DevOps": ["Docker", "Git"]
+        }
+        self.passion = "im de"
+        
+    def __str__(self):
+        return f"{self.name} | {self.role}"
+
+me = Developer()
+print(me)
+```
 
 ###
 
@@ -29,9 +43,19 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="css logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxt logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
 ###
@@ -41,14 +65,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=stkossman&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=stkossman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stkossman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stkossman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stkossman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=stkossman&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
