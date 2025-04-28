@@ -14,24 +14,27 @@
 
 ###
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "kossman"
-        self.role = "Frontend Developer"
-        self.skills = {
-            "Backend": ["Python", "NodeJS", "C#", "C++"],
-            "Database": ["MySQL", "PostgreSQL", "MSSQL"],
-            "Frontend": ["HTML/CSS", "JavaScript", "TailwindCSS", "React (basic)", "Nuxt (basic)"],
-            "DevOps": ["Docker", "Git"]
-        }
-        self.passion = "im dead inside"
-        
-    def __str__(self):
-        return f"{self.name} | {self.role}"
+```ruby
+class Developer
+  def initialize
+    @name = "kossman"
+    @role = "Frontend Developer"
+    @skills = {
+      "Backend" => ["Python", "NodeJS", "C#", "C++", "Ruby (basic)"],
+      "Database" => ["MySQL", "PostgreSQL", "MSSQL"],
+      "Frontend" => ["HTML/CSS", "JavaScript", "TailwindCSS", "React (basic)", "Nuxt (basic)"],
+      "DevOps" => ["Docker", "Git"]
+    }
+    @passion = "im dead inside"
+  end
 
-me = Developer()
-print(me)
+  def to_s
+    "#{@name} | #{@role}"
+  end
+end
+
+me = Developer.new
+puts me
 ```
 
 ###
