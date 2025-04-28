@@ -82,3 +82,10 @@ print(me)
 </div>
 
 ###
+
+<h3 align="left">Codewars (mainly Ruby)</h3>
+<div align="center">
+  <img src="https://www.codewars.com/users/kossman/badges/large" />
+</div>
+
+###
