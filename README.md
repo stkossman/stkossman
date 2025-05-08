@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="ren.jpg" />
-</div>
-
-###
 
 <h1 align="center">
   <span style="color: #FFAE00">呪われた</span>
