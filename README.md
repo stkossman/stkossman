@@ -15,10 +15,10 @@ class Developer
     @name = "kossman"
     @role = "Frontend Developer"
     @skills = {
-      "Backend" => ["Python", "NodeJS", "C#", "C++", "Ruby (basic)"],
+      "Backend" => ["Python", "NodeJS", "C#", "C++", "Ruby (basic)", "Laravel"],
       "Database" => ["MySQL", "PostgreSQL", "MSSQL"],
       "Frontend" => ["HTML/CSS", "JavaScript", "TailwindCSS", "React (basic)", "Nuxt (basic)"],
-      "DevOps" => ["Docker", "Git"]
+      "DevOps" => ["Docker", "Git", "Ubuntu (WSL)"],
     }
     @passion = "im dead inside"
   end
