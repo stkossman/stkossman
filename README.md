@@ -62,6 +62,10 @@ puts me
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rails" height="40" alt="rails logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
 </div>
 
 ###
