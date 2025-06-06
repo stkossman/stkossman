@@ -15,7 +15,7 @@ class Developer
     @name = "kossman"
     @role = "Frontend Developer"
     @skills = {
-      "Backend" => ["Python", "NodeJS", "C#", "C++", "Ruby (basic)", "Laravel"],
+      "Backend" => ["C#", "Ruby", "Ruby on Rails", "Python", "NodeJS", "C++", "Laravel"],
       "Database" => ["MySQL", "PostgreSQL", "MSSQL"],
       "Frontend" => ["HTML/CSS", "JavaScript", "TailwindCSS", "React (basic)", "Nuxt (basic)"],
       "DevOps" => ["Docker", "Git", "Ubuntu (WSL)"],
