@@ -15,7 +15,7 @@ class Developer
     @name = "kossman"
     @role = "Frontend Developer"
     @skills = {
-      "Backend" => ["C#", "Ruby", "Ruby on Rails", "Python", "NodeJS", "C++", "Laravel"],
+      "Backend" => ["C#", "Ruby", "Ruby on Rails", "Python", "NodeJS", "C++"],
       "Database" => ["MySQL", "PostgreSQL", "MSSQL"],
       "Frontend" => ["HTML/CSS", "JavaScript", "TailwindCSS", "React (basic)", "Nuxt (basic)"],
       "DevOps" => ["Docker", "Git", "Ubuntu (WSL)"],
@@ -64,8 +64,6 @@ puts me
   <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rails" height="40" alt="rails logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
 </div>
 
 ###
