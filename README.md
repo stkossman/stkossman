@@ -1,3 +1,6 @@
+<img src="blackwhite_sky.jpg" alt="sky" />
+
+###
 
 <h1 align="center">
   <span style="color: #FFAE00">呪われた</span>
@@ -13,7 +16,7 @@
 class Developer
   def initialize
     @name = "kossman"
-    @role = "Frontend Developer"
+    @role = "Full-Stack Developer"
     @skills = {
       "Backend" => ["C#", "C++", "Ruby", "Ruby on Rails", "Python"],
       "Database" => ["MySQL", "PostgreSQL", "MSSQL"],
@@ -34,7 +37,7 @@ puts me
 
 ###
 
-<h3 align="center">Language and tools</h3>
+<h3 align="center">My Inventory</h3>
 
 ###
 
@@ -68,7 +71,7 @@ puts me
 
 ###
 
-<h3 align="center">My Stats :</h3>
+<h3 align="center">The Abyss Watches</h3>
 
 ###
 
