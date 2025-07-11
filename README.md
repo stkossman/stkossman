@@ -24,6 +24,12 @@ class Developer
       "DevOps" => ["Docker", "Git", "Ubuntu (WSL)"],
     }
     @passion = "im dead inside"
+
+    @language = "Ruby"
+    @relic = true if File.exist?("Gemfile.lock")
+
+    # They laughed at my syntax.
+    # Until they saw what I did with 3 lines.
   end
 
   def to_s
