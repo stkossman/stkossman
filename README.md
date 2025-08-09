@@ -77,7 +77,7 @@ puts me
 
 ###
 
-<h3 align="center">The Abyss Watches</h3>
+<h3 align="center">My Stats</h3>
 
 ###
 
