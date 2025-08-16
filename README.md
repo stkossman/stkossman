@@ -20,7 +20,7 @@ class Developer
     @skills = {
       "Backend" => ["C#", "C++", "Ruby", "Ruby on Rails", "Python"],
       "Database" => ["MySQL", "PostgreSQL", "MSSQL"],
-      "Frontend" => ["HTML/CSS", "JavaScript", "TailwindCSS", "React (basic)", "Nuxt (basic)"],
+      "Frontend" => ["HTML/CSS", "JavaScript", "TailwindCSS", "React", "Astro (basic)", "Next.js (basic)", "SCSS"],
       "DevOps" => ["Docker", "Git", "Ubuntu (WSL)"],
     }
     @passion = "im dead inside"
@@ -60,7 +60,7 @@ puts me
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxt logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="6" />
