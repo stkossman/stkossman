@@ -20,9 +20,10 @@ class Developer
     @skills = {
       "Backend" => ["C#", "C++", "Ruby", "Ruby on Rails", "Python"],
       "Database" => ["MySQL", "PostgreSQL", "MSSQL"],
-      "Frontend" => ["HTML/CSS", "JavaScript", "TailwindCSS", "React", "Astro (basic)", "Next.js (basic)", "SCSS"],
+      "Frontend" => ["JavaScript", "TailwindCSS", "React", "Astro (basic)", "Next.js (basic)", "SCSS", "Alpine.js", "htmx"],
       "DevOps" => ["Docker", "Git", "Ubuntu (WSL)"],
     }
+    @learning = ["Node.js", "Express", "React Native", "Three.js", "MongoDB"]
     @passion = "im dead inside"
   end
 
