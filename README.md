@@ -18,12 +18,12 @@ class Developer
     @name = "kossman"
     @role = "Front-End Developer"
     @skills = {
-      "Backend" => ["C#", "C++", "Ruby", "Ruby on Rails", "Python"],
+      "Backend" => ["C#", "C++", "Ruby", "Ruby on Rails", "Python"], # not really into it, but still
       "Database" => ["MySQL", "PostgreSQL", "MSSQL"],
-      "Frontend" => ["JavaScript", "TailwindCSS", "React", "Astro (basic)", "Next.js (basic)", "SCSS", "Alpine.js", "htmx"],
-      "DevOps" => ["Docker", "Git", "Ubuntu (WSL)"],
+      "Frontend" => ["JavaScript", "TailwindCSS", "React", "Astro", "Next.js (basic)"],
+      "DevOps" => ["Docker", "Git"],
     }
-    @learning = ["Node.js", "Express", "React Native", "Three.js", "MongoDB"]
+    @learning = ["Node.js", "Express", "MongoDB"]
     @passion = "im dead inside"
   end
 
