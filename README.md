@@ -3,7 +3,7 @@
 ###
 
 <h1 align="center">
-  <span style="color: #FFAE00">呪われた</span>
+  <span style="color: #FFAE00">６１０</span>
 </h1>
 
 ###
