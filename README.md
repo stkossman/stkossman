@@ -6,32 +6,31 @@
   <span style="color: #A0A0A0">６１０</span>
 </h1>
 
-<h3 align="center">About Me</h3>
+<p align="center">
+  <i>I can see the hand of a master</i>
+</p>
 
 ###
 
-```ruby
-class Developer
-  def initialize
-    @name = "kossman"
-    @role = "Front-End Developer"
-    @skills = {
-      "Backend" => ["C#", "C++", "Python"],
-      "Database" => ["MySQL", "PostgreSQL", "MSSQL", "Firebase"],
-      "Frontend" => ["JavaScript", "TypeScript", "TailwindCSS", "React", "Astro"],
-      "DevOps" => ["Docker", "Git"],
-    }
-    @learning = ["Node.js", "Express.js", "NestJS", "Prisma ORM"]
-    @passion = "im dead inside"
-  end
+```js
+class Developer {
+  constructor() {
+    this.name = "kossman";
+    this.role = "Front-End Developer";
+    this.skills = {
+      "Backend": ["C#", "C++", "Python"],
+      "Database": ["MySQL", "PostgreSQL", "MSSQL", "Firebase"],
+      "Frontend": ["JavaScript", "TypeScript", "TailwindCSS", "React", "Astro"],
+      "DevOps": ["Docker", "Git"],
+    };
+    this.learning = ["Node.js", "Express.js", "NestJS", "Prisma ORM"];
+  }
 
-  def to_s
-    "#{@name} | #{@role}"
-  end
-end
+  toString() {
+    return `${this.name} | ${this.role}`;
+  }
+}
 
-me = Developer.new
-puts me
+const me = new Developer();
+console.log(me.toString());
 ```
-
-<!-- why? do not look there. no need anyways -->
