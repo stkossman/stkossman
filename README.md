@@ -18,12 +18,12 @@ class Developer {
     this.name = "kossman";
     this.role = "Front-End Developer";
     this.skills = {
-      "Backend": ["C#", "C++", "Python"],
+      "Backend": ["C#", "Node.js"],
       "Database": ["MySQL", "PostgreSQL", "MSSQL", "Firebase"],
       "Frontend": ["JavaScript", "TypeScript", "TailwindCSS", "React", "Astro"],
-      "DevOps": ["Docker", "Git"],
+      "DevOps": ["Git"],
     };
-    this.learning = ["Node.js", "Express.js", "NestJS", "Prisma ORM"];
+    this.learning = ["Express.js", "NestJS", "Prisma ORM"];
   }
 
   toString() {
