@@ -23,7 +23,7 @@ class Developer {
       "Frontend": ["JavaScript", "TypeScript", "TailwindCSS", "React", "Astro"],
       "DevOps": ["Git"],
     };
-    this.learning = ["Express.js", "Prisma ORM"];
+    this.learning = ["Express.js", "Prisma ORM", "Vim"];
   }
 
   toString() {
