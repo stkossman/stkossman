@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="nanami.gif" alt="nanami kento" />
+  <img src="nanami.gif" alt="nanami kento" width="800" />
 </div>
 
 ---
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=6E9FFF&center=true&width=435&lines=I+can+see+the+hand+of+a+master" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <sub><i>「I can see the hand of a master.」</i></sub>
+</div>
+
+<br>
 
 ```ts
 import type { Stack } from "./types";
