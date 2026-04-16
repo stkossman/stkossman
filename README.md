@@ -1,10 +1,8 @@
-<img src="blackwhite_sky.jpg" alt="sky" />
+<p align="center">
+  <img src="nanami_wp.jpg" alt="nanami kento image" />
+</p>
 
 ###
-
-<h1 align="center">
-  <span style="color: #A0A0A0">６１０</span>
-</h1>
 
 <p align="center">
   <i>I can see the hand of a master</i>
