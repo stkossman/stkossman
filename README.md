@@ -14,7 +14,6 @@ Currently an intern at **SoftServe**. Currently learning **Next.js**.
 Always learning something.
 
 Based in Ukraine. Working within reason.  
-The ratio is 7:3. It always has been.
 
 <br>
 
