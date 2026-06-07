@@ -10,7 +10,7 @@ I build interfaces. Mostly with **React**, **TypeScript**, **Astro**,
 styling with **SCSS**, **TailwindCSS**. On the server side - **Node.js**, **C#**.  
 Data lives in **PostgreSQL**, **MySQL**, **Firebase**.
 
-Currently an intern at **SoftServe**. Currently learning **Next.js**.  
+Currently an intern at **SoftServe**. Currently learning **Test Automation**.  
 Always learning something.
 
 Based in Ukraine. Working within reason.  
